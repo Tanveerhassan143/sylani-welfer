@@ -1,11 +1,14 @@
-alert("Error! plieas enter a valid password.")
-alert("welcome to JS Land...\Happy Coding!")
+alert("Jhone Done")
+alert("22years old")
 alert("Welcome to JS Land..")
-alert("Happy Coding!\  prevent this page from creating addintion dailogs")
-alert("Hello...I can run JS through my web browse`s console")
+alert("Certified Mobile Application Development")
 
-var line1 ="Rana Tanveer Hassan Cco 116850 ,Sylani Mass IT trening--";
-var line2 ="Thank you for visit my website";
-var message=line1+"\n"+line2;
+
+var line1 ="PIZZA";
+var line2 ="PIZZ";
+var line3 ="PIZ";
+var line4 ="PI";
+var line5 ="P";
+var message=line1+"\n"+line2+"\n"+line3+"\n"+line4+"\n"+line5;
 alert(message);
 
